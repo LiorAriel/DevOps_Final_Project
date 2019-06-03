@@ -14,6 +14,6 @@
     }
   %>
   <a href="<%= request.getRequestURI() %>"><h3>Try Again</h3></a>
-  <%="  New app.jsp file !!!"%>
+  <h3>New app.jsp file !!!</h3>
 </body>
 </html>
