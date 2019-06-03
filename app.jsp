@@ -14,6 +14,6 @@
     }
   %>
   <a href="<%= request.getRequestURI() %>"><h3>Try Again</h3></a>
-  <h3>New app.jsp file!!! (by shir)</h3>
+  <h3>New app.jsp file!!! by LIOR</h3>
 </body>
 </html>
