@@ -62,6 +62,7 @@
 		<br><h4 style="text-align:center;"><u>Created by:</u></h4>
 		<h4 style="text-align:center;"> <%="Lior Ariel" %></h4>
 		<h4 style="text-align:center;"> <%="Shir Admon" %></h4>
+		<br>
 		</div>
 	</body>
 </html>
